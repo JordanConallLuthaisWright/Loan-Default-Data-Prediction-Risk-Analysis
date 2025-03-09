@@ -36,7 +36,7 @@ This project aims to **predict loan default risk** by analyzing borrower data an
 ## How to Run This Project  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/loan-default-prediction.git
+   git clone https://github.com/JordanConallLuthaisWright/Loan-Default-Data-Prediction-Risk-Analysis.git
 2. **Navigate to the project directory**
    ```bash
    cd loan-default-prediction
